@@ -1,7 +1,7 @@
 # Mario
 Uses a genetic algorithm to help Mario solve a maze
 
-![mario](https://mcarlson.xyz/img/mario.png)
+![mario](https://mcarlson.xyz/img/mario.png?raw=true)
 
 M = Mario
 
